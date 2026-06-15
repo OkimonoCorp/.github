@@ -33,7 +33,7 @@
 | :--- | :--- | :--- |
 | **AidéO** | Plateforme numérique simplifiant la gestion de la perte d'autonomie avec un focus strict sur l'ergonomie et l'accessibilité. | `Web` `UI/UX` |
 | **[Three.js Playground](https://github.com/OkimonoCorp/threejs-playground)** | Expérimentations 3D : Système solaire dynamique et objets interactifs. *(Live demo disponible)* | `Three.js` `JS` |
-| **Todo List "Jardin"** | Application web orientée mobile avec un système de récompenses visuelles. | `HTML` `CSS` `JS` |
+| **[Todo List "Jardin"](https://github.com/OkimonoCorp/todo-list-jardin)** | Application web orientée mobile avec un système de récompenses visuelles. | `HTML` `CSS` `JS` |
 | **Laboratoire Cyber** (à venir) | Environnement de test, scripts d'automatisation et write-ups d'exercices d'ethical hacking. | `Linux` `Bash` |
 
 ---

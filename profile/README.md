@@ -1,18 +1,48 @@
-# 👋 Bienvenue chez OkimonoCorp
+<div align="center">
+  <h1>Hi 👋, je suis Matéo</h1>
+  <h3>Étudiant en BUT Informatique | Systèmes, Réseaux & Cybersécurité</h3>
+</div>
 
-Je suis **Matéo**, étudiant en 2ème année de BUT Informatique à l'IUT2. Cet espace regroupe mes projets professionnels, mes expérimentations techniques et mes travaux de développement.
+<br/>
 
-🎯 **Objectif actuel :** À la recherche d'une alternance pour l'année 2026-2027, pour consolider mes compétences en **Systèmes, Réseaux et Cybersécurité**.
+<p align="center">
+  Curieux de nature, j'aime concevoir des outils accessibles et comprendre les architectures complexes. De la création de jeux web à la résolution de challenges (CTF, Root-Me), j'utilise la gamification au quotidien pour structurer mes projets.
+</p>
+
+<div align="center">
+  <em>En recherche active d'une <b>alternance (2026-2027)</b>.</em>
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Mes Projets Phares
+### 🛠️ Stack Technique & Outils
 
-Ici, je consolide mes réalisations les plus abouties pour les séparer de mes expérimentations personnelles :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,python,js,html,css,threejs,git,github,obsidian&perline=10" alt="My Skills" />
+  </a>
+</p>
 
-* 🛡️ **Cybersécurité & CTF** : *(À venir)* Scripts, outils d'automatisation et write-ups d'exercices d'ethical hacking.
-* 🌐 **Développement Web & Accessibilité** : Projets orientés ergonomie et interfaces "clean" (comme le projet AidéO).
-* 🧊 **Expérimentations 3D** : Découverte et maîtrise technique de bibliothèques graphiques comme Three.js.
+---
+
+### 🚀 Mes Projets & Réalisations
+
+| 🎯 Projet | 📝 Description | 💻 Technologies |
+| :--- | :--- | :--- |
+| **AidéO** | Plateforme numérique simplifiant la gestion de la perte d'autonomie avec un focus strict sur l'ergonomie et l'accessibilité. | `Web` `UI/UX` |
+| **[Three.js Playground](https://github.com/OkimonoCorp/threejs-playground)** | Expérimentations 3D : Système solaire dynamique et objets interactifs. *(Live demo disponible)* | `Three.js` `JS` |
+| **Todo List "Jardin"** | Application web orientée mobile avec un système de récompenses visuelles. | `HTML` `CSS` `JS` |
+| **Laboratoire Cyber** | Environnement de test, scripts d'automatisation et write-ups d'exercices d'ethical hacking. | `Linux` `Bash` |
+
+---
+
+### 📊 Activité GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Okiimono&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" width="400" />
+</div>
 
 ---
 

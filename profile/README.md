@@ -31,11 +31,11 @@
 
 | 🎯 Projet | 📝 Description | 💻 Technologies |
 | :--- | :--- | :--- |
-| **AidéO** | Plateforme numérique simplifiant la gestion de la perte d'autonomie avec un focus strict sur l'ergonomie et l'accessibilité. | `Web` `UI/UX` |
+| **[AidéO](https://github.com/OkimonoCorp/aideo-platform)** | Plateforme numérique simplifiant la gestion de la perte d'autonomie avec un focus strict sur l'ergonomie et l'accessibilité. | `Web` `UI/UX` |
 | **[Three.js Playground](https://github.com/OkimonoCorp/threejs-playground)** | Expérimentations 3D : Système solaire dynamique et objets interactifs. *(Live demo disponible)* | `Three.js` `JS` |
 | **[Todo List "Jardin"](https://github.com/OkimonoCorp/todo-list-jardin)** | Application web orientée mobile avec un système de récompenses visuelles. | `HTML` `CSS` `JS` |
 | **[Handtracking Python](https://github.com/OkimonoCorp/python-handtracking)** | Expérimentation en vision par ordinateur pour la détection et le suivi de mouvements en temps réel. | `Python` `OpenCV` |
-| **[Terminal Festif Noël](https://github.com/OkimonoCorp/xmas-terminal)** | Simulation interactive d'une invite de commande (CLI) sur navigateur. *(Live demo disponible)* | `HTML` `CSS` `JS` |
+| **[Terminal Festif Noël](https://github.com/OkimonoCorp/Christmas-CMD)** | Simulation interactive d'une invite de commande (CLI) sur navigateur. *(Live demo disponible)* | `HTML` `CSS` `JS` |
 | **Laboratoire Cyber** *(à venir)* | Environnement de test, scripts d'automatisation et write-ups d'exercices d'ethical hacking. | `Linux` `Bash` |
 
 ---
